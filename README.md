@@ -7,7 +7,7 @@ A simple event library written in Java.
 Getting started
 ---------------
 
-1) Create an instance of the event manager. This could be declared globally or static in a larger project.
+1) Create an instance of the event manager.
 
 ```java
 
